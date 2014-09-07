@@ -17,7 +17,7 @@ Database is not required, but a flatfile TMP file per session would be used.
 
 
 ### Team
-1. Jatin Dhankhar @[jatindhankhar](https://github.com/jatindhankhar), jatin-at-jatindhankhar.in, [Ramanujan College](www.ramanujancollege.ac.in), University of Delhi.
+1. Jatin Dhankhar @[jatindhankhar](https://github.com/jatindhankhar), jatin-at-jatindhankhar.in, [Ramanujan College](http://www.ramanujancollege.ac.in), University of Delhi.
 2. Prashant Sinha @[Prashnts](https://github.com/prashnts), prashant-at-ducic.ac.in, [Cluster Innovation Centre](http://ducic.ac.in), University of Delhi.
 
 ### Status
