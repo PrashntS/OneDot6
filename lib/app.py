@@ -17,4 +17,6 @@ def connect():
 # @delete('/dev/connect')
 # @put('/dev/connect')
 
+# We need a config file.
+
 run(host='localhost', port=75, debug=True)
