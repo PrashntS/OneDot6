@@ -13,4 +13,8 @@ def dev():
 def connect():
 	return "Connect Route."
 
+# @post('/dev/connect')
+# @delete('/dev/connect')
+# @put('/dev/connect')
+
 run(host='localhost', port=75, debug=True)
